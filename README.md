@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://parthgrewal.vercel.app/" target="_blank">parthgrewal.dev</a>
+  <a href="https://parthgrewal.vercel.app/" target="_blank">parthgrewal.in</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -27,7 +27,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ParthGrewal](https://github.com/ParthGrewal/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ParthGrewal](https://github.com/ParthGrewal/ParthGrewal.in). Thanks!
 
 ## Built With
 
